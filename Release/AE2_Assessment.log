@@ -1,0 +1,50 @@
+﻿  Bitmap.cpp
+  Enemy.cpp
+z:\c++\ae2_assessment\enemy.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  Entity.cpp
+  GameCore.cpp
+z:\c++\ae2_assessment\gamecore.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(273): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+z:\c++\ae2_assessment\gamecore.cpp(274): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+z:\c++\ae2_assessment\gamecore.cpp(275): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+z:\c++\ae2_assessment\gamecore.cpp(276): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+z:\c++\ae2_assessment\gamecore.cpp(279): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(281): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(283): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(284): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(285): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(286): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(287): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+z:\c++\ae2_assessment\gamecore.cpp(287): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Hero.cpp
+z:\c++\ae2_assessment\hero.cpp(205): warning C4018: '<': signed/unsigned mismatch
+z:\c++\ae2_assessment\hero.cpp(217): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+  c:\users\gabri\source\repos\sdl\include\sdl_render.h(122): note: see declaration of 'SDL_Renderer'
+  input.cpp
+  Level.cpp
+z:\c++\ae2_assessment\level.cpp(52): warning C4018: '<': signed/unsigned mismatch
+z:\c++\ae2_assessment\level.cpp(138): warning C4018: '<': signed/unsigned mismatch
+z:\c++\ae2_assessment\level.cpp(225): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Timer.cpp
+z:\c++\ae2_assessment\timer.cpp(24): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+  Generating code
+  All 739 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AE2_Assessment.vcxproj -> Z:\c++\AE2_Assessment\Release\AE2_Assessment.exe
